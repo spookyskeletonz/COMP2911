@@ -1,0 +1,28 @@
+Request rejected
+Reservation 2 A a c
+Reservation 3 D d e
+Reservation 4 E f g
+Reservation 5 B b
+Request rejected
+Request rejected
+Request rejected
+Cancel 3
+Request rejected
+Reservation 9 A a c
+Reservation 11 A a c
+Reservation 12 A a c
+Reservation 13 A a c
+Reservation 14 A a b c
+Reservation 15 A a c
+Request rejected
+Cancel rejected
+A a Feb 20 20 Mar 20 3 Mar 23 16 Apr 8 2 Apr 10 4 Apr 20 13 May 23 1
+A b Feb 20 20
+A c Feb 20 20 Mar 20 3 Mar 23 16 Apr 8 2 Apr 10 4 Apr 20 13 May 23 1
+B b Mar 25 8
+C c 
+D d 
+D e 
+E f Mar 23 16
+E g Mar 23 16
+E h 

@@ -1,0 +1,18 @@
+Reservation 2 D d e
+Request rejected
+Reservation 4 A a b
+Request rejected
+Request rejected
+Cancel rejected
+Request rejected
+Cancel rejected
+A a Mar 23 19
+A b Mar 23 19
+A c 
+B b 
+C c 
+D d Mar 23 16
+D e Mar 23 16
+E f 
+E g 
+E h 
